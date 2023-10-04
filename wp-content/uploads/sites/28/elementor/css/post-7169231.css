@@ -80,7 +80,10 @@
   --container-widget-flex-grow: 0;
 }
 .elementor-716 .elementor-element.elementor-element-3e4e813 {
-  
+   background-image: url("../../2022/09/bg5.png");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 0em 0em 0em 0em;
 }
 .elementor-716
@@ -223,6 +226,9 @@
 .elementor-716 .elementor-element.elementor-element-61320c3 {
 
   background-image: url("../../2022/09/bg1.png"); /*real*/
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 5em 0em 7em 0em;
 }
 .elementor-716
@@ -347,6 +353,10 @@ body.rtl .elementor-716 .elementor-element.elementor-element-643cf09 {
         }
 .elementor-716 .elementor-element.elementor-element-8c94017 {
 
+  background-image: url("../../2022/09/bg4.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 0em 0em 7em 0em;
 }
 .elementor-716
@@ -1351,7 +1361,11 @@ color: white
   margin: -5em 0em 0em 0em;
 }
 .elementor-716 .elementor-element.elementor-element-3d31e52 {
+  background-image: url("../../2022/09/bg6.png"); /*real*/
   padding: 0em 0em 5em 0em;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .elementor-716
   .elementor-element.elementor-element-a40f9fa
@@ -2060,6 +2074,11 @@ color: white
   fill: #ffffff;
 }
 .elementor-716 .elementor-element.elementor-element-52863d2 {
+
+  background-image: url("../../2022/09/bg7.png"); /*real*/
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 7em 0em 5em 0em;
 }
 .elementor-716
@@ -2161,6 +2180,11 @@ color: white
   margin: 28px 28px 28px 28px;
 }
 .elementor-716 .elementor-element.elementor-element-cd26197 {
+
+  background-image: url("../../2022/09/bg7.png"); /*real*/
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 0em 0em 4em 0em;
 }
 .elementor-716
@@ -2199,7 +2223,7 @@ color: white
   > .elementor-widget-container {
   margin: 10px 10px 10px 10px;
   padding: 2em 1em 2em 1em;
-  background-color: var(--e-global-color-cfa1f76);
+  background-color: #42ff4282;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-716 .elementor-element.elementor-element-bd23647 {
@@ -2224,7 +2248,7 @@ color: white
   > .elementor-widget-container {
   margin: 10px 10px 10px 10px;
   padding: 2em 1em 2em 1em;
-  background-color: var(--e-global-color-cfa1f76);
+  background-color: #42ff4282;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-716 .elementor-element.elementor-element-3c3b3a6 {
@@ -2249,7 +2273,7 @@ color: white
   > .elementor-widget-container {
   margin: 10px 10px 10px 10px;
   padding: 2em 1em 2em 1em;
-  background-color: var(--e-global-color-cfa1f76);
+  background-color: #42ff4282;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-716 .elementor-element.elementor-element-c34b668 {
@@ -2274,7 +2298,7 @@ color: white
   > .elementor-widget-container {
   margin: 10px 10px 10px 10px;
   padding: 2em 1em 2em 1em;
-  background-color: var(--e-global-color-cfa1f76);
+  background-color: #3eff3eb0;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-716 .elementor-element.elementor-element-e458e63 {
@@ -2299,7 +2323,7 @@ color: white
   > .elementor-widget-container {
   margin: 10px 10px 10px 10px;
   padding: 2em 1em 2em 1em;
-  background-color: var(--e-global-color-cfa1f76);
+  background-color: #42ff4282;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-716 .elementor-element.elementor-element-24e8f20 {
@@ -2324,7 +2348,7 @@ color: white
   > .elementor-widget-container {
   margin: 10px 10px 10px 10px;
   padding: 2em 1em 2em 1em;
-  background-color: var(--e-global-color-cfa1f76);
+  background-color: #42ff4282;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-716 .elementor-element.elementor-element-efff565 {
@@ -2349,7 +2373,7 @@ color: white
   > .elementor-widget-container {
   margin: 10px 10px 10px 10px;
   padding: 2em 1em 2em 1em;
-  background-color: var(--e-global-color-cfa1f76);
+  background-color: #42ff4282;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-716 .elementor-element.elementor-element-e942924 {
@@ -2374,7 +2398,7 @@ color: white
   > .elementor-widget-container {
   margin: 10px 10px 10px 10px;
   padding: 2em 1em 2em 1em;
-  background-color: var(--e-global-color-cfa1f76);
+  background-color: #42ff4282;
   border-radius: 10px 10px 10px 10px;
 }
 .elementor-716 .elementor-element.elementor-element-84b9bb0 {

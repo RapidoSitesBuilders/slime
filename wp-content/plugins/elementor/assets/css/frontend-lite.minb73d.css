@@ -3249,7 +3249,11 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
   transition: 0.3s;
 }
 .elementor-slideshow__footer {
-  color: var(--lightbox-text-color);
+/*  color: var(--lightbox-text-color);*/
+  background-image: url("../../2022/09/bg7.png"); /*real*/
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .elementor-slideshow__header {
   color: var(--lightbox-ui-color);
