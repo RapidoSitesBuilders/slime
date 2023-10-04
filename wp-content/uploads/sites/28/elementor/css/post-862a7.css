@@ -140,13 +140,13 @@
   word-spacing: var(--e-global-typography-83682a1-word-spacing);
 }
 .elementor-kit-8 h5 {
-  color: var(--e-global-color-secondary);
   font-family: var(--e-global-typography-7044a64-font-family), Sans-serif;
   font-size: var(--e-global-typography-7044a64-font-size);
   font-weight: var(--e-global-typography-7044a64-font-weight);
   line-height: var(--e-global-typography-7044a64-line-height);
   letter-spacing: var(--e-global-typography-7044a64-letter-spacing);
   word-spacing: var(--e-global-typography-7044a64-word-spacing);
+
 }
 .elementor-kit-8 h6 {
   color: var(--e-global-color-d49ac81);
