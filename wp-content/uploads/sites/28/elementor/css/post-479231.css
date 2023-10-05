@@ -26,17 +26,16 @@
   > .elementor-background-overlay {
   
   background-image: url("../../2022/09/bg6.png");
-  background-position: top; center;
+  background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
-
   height: 100vh;
 /*  opacity: 0.6;*/
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
 .elementor-47 .elementor-element.elementor-element-1af6dcb {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
-
+  position: relative;
   background-image: url("../../2022/09/bg6.png");
   background-position: bottom center;
   background-repeat: no-repeat;
@@ -44,11 +43,6 @@
 /*  margin-top: 1em;*/
   margin-bottom: 2em;
   padding: 0em 0em 0em 0em;
-}
-.elementor-47
-  .elementor-element.elementor-element-827deb7
-  > .elementor-element-populated {
-  padding: 2em 2em 2em 2em;
 }
 .elementor-47
   .elementor-element.elementor-element-7fd75fd
@@ -301,6 +295,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-0806de8
   > .elementor-element-populated {
   padding: 1em 1em 1em 1em;
+  background-color: #000000;
 }
 .elementor-47
   .elementor-element.elementor-element-1895aa0
